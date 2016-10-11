@@ -1,3 +1,5 @@
 # speakr-webapp
 
-Front-end for Speakr
+Server and Front-end files for Speakr
+
+live demo: https://s3-us-west-1.amazonaws.com/speakr-app/speakr.html
